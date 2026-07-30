@@ -3,7 +3,7 @@ replicaCount: 4
 image:
   repository: acrmyapplication.azurecr.io/info_app_backend_image
   pullPolicy: IfNotPresent
-  tag: "v47"
+  tag: "v48"
 
 imagePullSecrets: []
 nameOverride: ""
