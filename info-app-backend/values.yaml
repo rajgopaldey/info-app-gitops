@@ -1,4 +1,4 @@
-replicaCount: 2
+replicaCount: 5
 
 image:
   repository: acrmyapplication.azurecr.io/info_app_backend_image
